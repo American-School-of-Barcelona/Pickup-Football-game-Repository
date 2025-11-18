@@ -32,7 +32,7 @@
 <h3 align="center">Football Pickup matchmaker app </h3>
 
   <p align="center">
-    project_description
+    A mobile-friendly web app that helps players in Barcelona easily create and join local pickup football games. It shows football pitches on a map and lets users see how many players are needed before joining.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
