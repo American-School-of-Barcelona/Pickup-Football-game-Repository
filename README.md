@@ -148,9 +148,9 @@ x. Clone the repo
 <!-- USAGE EXAMPLES -->
 ## Prototype Status
 
-Use this space to show the current status of yoru project.  Have you added a new route? Throw a screenshot here. This ispace is for updates and milestoens larger than a single commit.  Commits happen whenever you make changes.  Update this section when you've added a new client-visible feature.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+This project is currently in the very early stages of development.
+Right now, I am setting up the project structure, installing Flask, and preparing the map integration.
+No major features are completed yet, but the base environment and planning are fully underway.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,10 +159,19 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+Interactive map of Barcelona football pitches
+
+ Create new pickup football games
+
+ Join / leave games with player counts updating
+
+ Mobile-friendly interface design
+
+ Filter games by distance or time
+
+ Basic user login and session system
+
+ Automatic removal of expired games
 
 As you develop your roadmap, add new features here and to [open issues](https://github.com/github_username/repo_name/issues)
 
