@@ -78,23 +78,46 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+A mobile-friendly web app that helps football players in Barcelona easily create and join pickup games happening near them.
+It shows football fields on an interactive map and lets players see how many people are joining before they decide to go.
 
 
 ### About the Client (IA A01 Client Scenario)
 
-Put some basic info about your client and their needs. You don't need to dox them, but provide the context for your project
- 
+My client is an amateur football player in Barcelona who often struggles to organize pickup matches with friends and other players.
+He currently uses group chats, which makes planning confusing.
+He needs a simple and fast tool to check game details and confirm attendance.
 
 ### Built With  (IA A03 Justification)
 
-* Python versio 3.xx (check!)
-* Flask ver 3.x  (check!)
-* What else are you using?
-* Record the library/package name and version number
-* Do this WHEN you add it to the main project!
+Python 3.x — server-side logic and database handling
+
+
+Flask 3.x — web framework for routing and APIs
+
+
+SQLite 3 — local database storing users, games, and football fields
+
+
+Leaflet.js — map + markers for pitches and game locations
+
+
+HTML / CSS / JavaScript — responsive front-end (works on phones)
+
+
+Bootstrap 5 — mobile-friendly UI design
+
+
+
+✔️ Teacher Checklist
+
+
+I will record the library name and version when I add them into the final app
+
+
+
+📌 Stop here and tell me “next section”
+Then I will give you the next block (Getting Started + Installation + Prerequisites) ready to paste.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
